@@ -6,7 +6,7 @@ This is the Cyprus edition of the global CocoaHeads meetups. There will be talks
 ### CocoaHeads Cyprus 15.12
 - Date: 2022.12.20
 - City: Limassol
-- Venue: tba
+- Venue: Meeting room at [Crowne Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA)
 - Time: 18:00 - 21:00
 - Program: tba
 - Registration form: tba
