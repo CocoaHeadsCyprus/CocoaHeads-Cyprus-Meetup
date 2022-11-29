@@ -8,12 +8,11 @@ This is the Cyprus edition of the global CocoaHeads meetups. There will be talks
 - City: Limassol
 - Venue: Meeting room at [Crowne Plaza](https://goo.gl/maps/J5XkCB41mr3yFysAA)
 - Time: 18:00 - 21:00
-- Agenda:
-18:00 - 18:30 - Gathering & Intro
-18:30 - 19:15 - "Swift: some and any. What’s this all about?"
-Anton Goncharov (iOS developer, inDrive)
-“some” and “any” keywords were introduced in Swift 5 some time ago. The latest Swift 5.7 realease includes a lot of related novelties that significantly change the syntax of protocols and generics. In this talk, we will find out the reasons for the appearance of those changes and figure out how and when to use them properly.
-19:15 - 21:00 - Networking
+- Agenda:  
+*18:00 - 18:30* - Gathering & Intro  
+*18:30 - 19:15* - "Swift: some and any. What’s this all about?" by Anton Goncharov (iOS developer, inDrive)  
+“some” and “any” keywords were introduced in Swift 5 some time ago. The latest Swift 5.7 realease includes a lot of related novelties that significantly change the syntax of protocols and generics. In this talk, we will find out the reasons for the appearance of those changes and figure out how and when to use them properly.  
+*19:15 - 21:00* - Networking
 - [Registration form](https://indtr.com/3VhctQm)
 
 ## Code of Conduct
