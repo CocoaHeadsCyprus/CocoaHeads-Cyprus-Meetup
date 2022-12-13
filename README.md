@@ -15,6 +15,10 @@ This is the Cyprus edition of the global CocoaHeads meetups. There will be talks
 *19:15 - 21:00* - Networking
 - [Registration form](https://indtr.com/my-cchs-link). The number of participants is limited due to the number of seats and a limited space. So grab a place while you can, first come, first served!
 
+## CFP
+
+If you are interested in making a talk at one of the following meetings, please [create an issue here](https://github.com/CocoaHeadsCyprus/CocoaHeads-Cyprus-Meetup/issues/new?assignees=west0r%2C+oldtuna&labels=&template=talk-proposal.md&title=).
+
 ## Code of Conduct
 In the interest of fostering an open and welcoming environment, we as participants and organizers pledge to making participation in our community a harassment-free and safe experience for everyone, regardless of sex, gender identity, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, political views or any other attribute or belief.
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate.
