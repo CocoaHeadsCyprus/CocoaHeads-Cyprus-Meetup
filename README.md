@@ -13,6 +13,7 @@ TBA. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Tele
 “some” and “any” keywords were introduced in Swift 5 some time ago. The latest Swift 5.7 realease includes a lot of related novelties that significantly change the syntax of protocols and generics. In this talk, we will find out the reasons for the appearance of those changes and figure out how and when to use them properly.
 
 [Presentation Slides](https://www.dropbox.com/s/evbiwzqhd29430v/CCHC%2015.12%20some%20and%20any.pdf?dl=0)
+
 [Link to additional materials](https://veiled-laborer-dd2.notion.site/Links-dede49dda4944fb3bcd6f176045403f3)
 
 ## CFP
