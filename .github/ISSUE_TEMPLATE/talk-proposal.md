@@ -1,6 +1,6 @@
 ---
 name: Talk Proposal
-about: If you are interested in making a Kotlin-related tech talk at one of our meetups,
+about: If you are interested in making a iOS-related tech talk at one of our meetups,
   please fill out the issue
 title: ''
 labels: ''
