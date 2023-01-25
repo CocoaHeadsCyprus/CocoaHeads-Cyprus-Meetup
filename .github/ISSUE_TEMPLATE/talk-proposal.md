@@ -14,7 +14,7 @@ assignees: west0r, oldtuna
 
 ### Your name and short bio
 
-<!-- Please share some facts about yourself and your experience with Kotlin, or a LinkedIn link would be helpful too. First-time speakers are offered additional support with abstract writing, slide prep, run-throughs or whatever else you may need. So if this'll be your first talk, let us know! -->
+<!-- Please share some facts about yourself and your experience, or a LinkedIn link would be helpful too. First-time speakers are offered additional support with abstract writing, slide prep, run-throughs or whatever else you may need. So if this'll be your first talk, let us know! -->
 
 - [ ] This will be my first tech talk
 
