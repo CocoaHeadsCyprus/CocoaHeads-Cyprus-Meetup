@@ -7,10 +7,10 @@ TBA. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Tele
 
 ## Past meetings
 
-### CocoaHeads Lite Paphos 02.02
+### CocoaHeads Lite Paphos 02.02.23
 2023.02.02, 19:00 - 21:00, Paphos, [Coffee Island](https://goo.gl/maps/yEKSUiw1aFt1hXms5)
 
-### CocoaHeads Cyprus 15.12
+### CocoaHeads Cyprus 15.12.22
 2022.12.15, Limassol 
 
 *18:30 - 19:15* - "Swift: some and any. What’s this all about?" by Anton Goncharov (iOS developer, inDrive)  
