@@ -1,16 +1,14 @@
 # CocoaHeads Cyprus Meetup
-This is the Cyprus edition of the global CocoaHeads meetups. There will be talks about iOS/Mac Development topics held in English. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Telegram Chat](https://t.me/cocoaheads_cy)
+This is the Cyprus edition of the global CocoaHeads meetups. There will be talks about iOS/Mac Development topics held in English. 
 
 ## Next meeting
 
-### CocoaHeads Lite Paphos 02.02
-2023.02.02, 19:00 - 21:00, Paphos, [Coffee Island](https://goo.gl/maps/yEKSUiw1aFt1hXms5)
-
-This is an informal networking event without talks & presentations, where we can just meet and discuss iOS-related topics informally, share ideas and get feedback from peers. All interested in iOS development are welcome!
-
-Please let us know if you are coming by [registering here](https://www.eventbrite.com/e/cocoaheads-lite-paphos-tickets-523509409737), so we know how many seats we need.
+TBA. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Telegram Chat](https://t.me/cocoaheads_cy)
 
 ## Past meetings
+
+### CocoaHeads Lite Paphos 02.02
+2023.02.02, 19:00 - 21:00, Paphos, [Coffee Island](https://goo.gl/maps/yEKSUiw1aFt1hXms5)
 
 ### CocoaHeads Cyprus 15.12
 2022.12.15, Limassol 
