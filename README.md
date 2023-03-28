@@ -1,9 +1,23 @@
 # CocoaHeads Cyprus Meetup
-This is the Cyprus edition of the global CocoaHeads meetups. There will be talks about iOS/Mac Development topics held in English. 
+This is the Cyprus edition of the global CocoaHeads meetups. There will be talks about iOS/Mac Development topics held in English. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Telegram Chat](https://t.me/cocoaheads_cy)
 
 ## Next meeting
 
-TBA. Meanwhile you can connect with fellow iOS developers in Cyprus in our [Telegram Chat](https://t.me/cocoaheads_cy)
+### CocoaHeads Cyprus 06.04.23, Limassol
+
+[Registration link](https://www.eventbrite.com/e/cocoaheads-cyprus-0604-tickets-596834436867)
+
+Agenda:
+
+#### "Workflow automation with GitHub Actions"
+Yuri Trykov (inDrive)
+
+Automation is a crucial aspect of fast code delivery, and GitHub Actions is a simple and convenient tool to automate the development workflow right in your GitHub repository. In this talk, I am going to cover basic scenarios: testing, building and deploying code, and integration with external services. Moreover, I will share some tips for creating effective automation and fixing common problems.
+
+#### "Boosting your pet-project with ChatGPT"
+Alexey Levanov (Exness)
+
+Very often pet projects are not completed due to lack of time, loss of motivation, or workload. If your pet project is a completed mobile application, in addition to development, you need design and promotion. It is quite difficult to engage in development, UI/UX prototyping, and marketing at the same time. Let's see how currently available neural networks can help you to accelerate the development of your pet project and replace competencies that you don't possess.
 
 ## Past meetings
 
