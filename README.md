@@ -42,3 +42,6 @@ If you are interested in making a talk at one of the following meetings, please 
 In the interest of fostering an open and welcoming environment, we as participants and organizers pledge to making participation in our community a harassment-free and safe experience for everyone, regardless of sex, gender identity, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, political views or any other attribute or belief.
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate.
 Participants violating these rules may be sanctioned or expelled from our events at the discretion of the organizers.
+
+## Patrons & Sponsors
+СocoaHeads Cyprus is supported by inDrive, Exness, [iOS Dev channel](https://t.me/iOS_Career).
