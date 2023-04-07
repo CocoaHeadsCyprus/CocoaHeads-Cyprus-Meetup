@@ -44,4 +44,4 @@ We do not tolerate harassment of participants in any form. Sexual language and i
 Participants violating these rules may be sanctioned or expelled from our events at the discretion of the organizers.
 
 ## Patrons & Sponsors
-СocoaHeads Cyprus is supported by inDrive, Exness, [iOS Dev channel](https://t.me/iOS_Career).
+СocoaHeads Cyprus is supported by [inDrive](https://indrive.tech), Exness, [iOS Dev channel](https://t.me/iOS_Career).
