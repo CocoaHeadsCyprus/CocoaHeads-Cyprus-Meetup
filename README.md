@@ -3,11 +3,16 @@ This is the Cyprus edition of the global CocoaHeads meetups. There will be talks
 
 ## Next meeting
 
-### CocoaHeads Cyprus 06.04.23, Limassol
+### WWDC Watchparty
+2023.06.05, Rio Cinemas, Limassol
+[Registration and info](https://www.eventbrite.com/e/cocoaheads-cyprus-wwdc-keynote-watch-party-0506-tickets-629888462347)
 
-[Registration link](https://www.eventbrite.com/e/cocoaheads-cyprus-0604-tickets-596834436867)
+Join us in Limassol for an event where we'll be watching the WWDC keynote from Apple on a big screen. This is a great opportunity to witness the latest innovations and updates from Apple. You'll have the chance to discuss and exchange your thoughts with fellow cocoa heads. With engaging discussions and some fun activities planned, this is an event you won't want to miss. Mark your calendars for an informative and enjoyable evening.
 
-Agenda:
+## Past meetings
+
+### CocoaHeads Cyprus #2
+2023.04.06, Limassol
 
 #### "Workflow automation with GitHub Actions"
 Yuri Trykov (inDrive)
@@ -19,12 +24,10 @@ Alexey Levanov (Exness)
 
 Very often pet projects are not completed due to lack of time, loss of motivation, or workload. If your pet project is a completed mobile application, in addition to development, you need design and promotion. It is quite difficult to engage in development, UI/UX prototyping, and marketing at the same time. Let's see how currently available neural networks can help you to accelerate the development of your pet project and replace competencies that you don't possess.
 
-## Past meetings
-
 ### CocoaHeads Lite Paphos 02.02.23
 2023.02.02, 19:00 - 21:00, Paphos, [Coffee Island](https://goo.gl/maps/yEKSUiw1aFt1hXms5)
 
-### CocoaHeads Cyprus 15.12.22
+### CocoaHeads Cyprus #1
 2022.12.15, Limassol 
 
 *18:30 - 19:15* - "Swift: some and any. What’s this all about?" by Anton Goncharov (iOS developer, inDrive)  
