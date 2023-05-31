@@ -19,10 +19,14 @@ Yuri Trykov (inDrive)
 
 Automation is a crucial aspect of fast code delivery, and GitHub Actions is a simple and convenient tool to automate the development workflow right in your GitHub repository. In this talk, I am going to cover basic scenarios: testing, building and deploying code, and integration with external services. Moreover, I will share some tips for creating effective automation and fixing common problems.
 
+[Presentation slides](https://drive.google.com/file/d/1gJDvQszWo-oMrfCNG9hwo75CcFkcLcm_/view?usp=share_link)
+
 #### "Boosting your pet-project with ChatGPT"
 Alexey Levanov (Exness)
 
 Very often pet projects are not completed due to lack of time, loss of motivation, or workload. If your pet project is a completed mobile application, in addition to development, you need design and promotion. It is quite difficult to engage in development, UI/UX prototyping, and marketing at the same time. Let's see how currently available neural networks can help you to accelerate the development of your pet project and replace competencies that you don't possess.
+
+[Presentation slides](https://drive.google.com/file/d/1kGvRxuxawNAkawI6CTpuSawT9tMwnsGr/view?usp=share_link)
 
 ### CocoaHeads Lite Paphos 02.02.23
 2023.02.02, 19:00 - 21:00, Paphos, [Coffee Island](https://goo.gl/maps/yEKSUiw1aFt1hXms5)
